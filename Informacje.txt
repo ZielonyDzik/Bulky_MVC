@@ -1,0 +1,5 @@
+Projekt wykonany przez: Jan Kapuściński
+Na podstawie kursu: Introduction to ASP.NET Core MVC (.NET 8)
+
+Github: https://github.com/ZielonyDzik/Bulky_MVC
+Wykorzystane programy: Visual Studio 2022 Preview, SQL Server Management Studio 20
